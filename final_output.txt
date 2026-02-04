@@ -1,0 +1,64 @@
+1 Las Vegas Raiders
+2 New York Jets
+3 Arizona Cardinals
+4 Tennessee Titans
+5 New York Giants
+6 Cleveland Browns
+7 Washington Commanders
+8 New Orleans Saints
+9 Kansas City Chiefs
+10 Cincinnati Bengals
+11 Miami Dolphins
+12 Dallas Cowboys
+13 Los Angeles Rams (previously owned by Atlanta Falcons)
+14 Baltimore Ravens
+15 Tampa Bay Buccaneers
+16 New York Jets (previously owned by the Indianapolis Colts)
+17 Detroit Lions
+18 Minnesota Vikings
+19 Carolina Panthers
+20 Dallas Cowboys (previously owned by the Green Bay Packers)
+21 Pittsburgh Steelers
+22 Los Angeles Chargers
+23 Philadelphia Eagles
+24 Cleveland Browns (previously owned by the Jacksonville Jaguars)
+25 Chicago Bears
+26 Buffalo Bills
+27 San Francisco 49ers
+28 Houston Texans
+29 Los Angeles Rams
+30 New England Patriots
+31 Denver Broncos
+32 Seattle Seahawks
+33 New York Jets
+34 Arizona Cardinals
+35 Tennessee Titans
+36 Las Vegas Raiders
+37 New York Giants
+38 Houston (previously owned by the Washington Commanders)
+39 Cleveland Browns
+40 Kansas City Chiefs
+41 Cincinnati Bengals
+42 New Orleans Saints
+43 Miami Dolphins
+44 New York Jets (previously owned by the Dallas Cowboys)
+45 Baltimore Ravens
+46 Tampa Bay Buccaneers
+47 Indianapolis Colts
+48 Atlanta Falcons
+49 Minnesota Vikings
+50 Detroit Lions
+51 Carolina Panthers
+52 Green Bay Packers
+53 Pittsburgh Steelers
+54 Philadelphia Eagles
+55 Los Angeles Chargers
+56 Jacksonville Jaguars
+57 Chicago Bears
+58 San Francisco 49ers
+59 Houston Texans
+60 Buffalo Bills
+61 Los Angeles Rams
+62 Denver Broncos
+63 New England Patriots
+64 Seattle Seahawks
